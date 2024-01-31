@@ -28,3 +28,4 @@ nadia-*.tar
 # Misc.
 /config/config.exs
 /docs/all.json
+.idea/*
